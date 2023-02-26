@@ -53,4 +53,55 @@
         "temp/":true,
         "Temp/":true
     }
+}$ Python: GUI
+Import JSON
+
+Import Numpy as np
+Import tensor flow as tf
+Model parameters
+X=tf variable {[tf float32]}
+B=tf variable {[tf float32]}
+Model input and output
+X = tf placeholder [{(tf float 32)]}
+B = tf variable [{.tf float 32)]}
+Linear _model =a x X x b
+Y=if placeholder (tf float 32)
+
+A=loss
+Loss – if reduce sum (tf float32)
+
+
+Numpy protein sort at JSON:
+
+protein sort tf float= LFLLCEHLGVRTQCFAVQSLSQVIAPD
+
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "g",
+    "c": "d",
+    "e": "f"
+  "h":"i":"k":"l":"m":"n":"p":"q";"r";"S":"t":"v":"w":"y":},
+  "string": ""
 }
+Import json
+Import numpy as np
+With open (‘training-data-10k.json’) as f:
+Data = json.load (f)
+Xs = np.array (data [‘ys’])
+YS = np.array (data[‘ys’])
+X – train = xs[-10]
+Y-train= ys [: -10]
+x-train = xs[: -10]
+x-test= xs [:-10]
+y-test = ys[:-10]
+open training data as g:
+open(‘training_data -10k.jason’) as g:
+
